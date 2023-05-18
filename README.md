@@ -1,7 +1,8 @@
-# William_Gerstung
-# :wave: Hello Human
+# William Gerstung
+# :wave:
 ## About Me
-I am a student at The University of Iowa studying business analytics and information systems. I am actively pursuing a bachelors degree and heavily considering a masters. 
+Graduate from The University of Iowa with a Bachelors in Business Administration with a degree in business analytics and information systems.
 # :muscle: My Skills
-:space_invader: Programs that I currently use and have used in the past and are skilled in: Python, SQL, Excel, Blender, and AutoCad.
-
+Programs that I currently use and have used in the past and are skilled in: Python, SQL, Excel, Blender, and Rstudio.
+# 🍀
+Currently looking for a job.
