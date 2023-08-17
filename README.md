@@ -6,10 +6,10 @@ I'm passionate about data and its power to drive insights and innovation. Since 
 
 ## Contents
 
-- [Learning Path](#learning-path)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Connect with Me](#connect-with-me)
+- [Learning Path](##learning-path)
+- [Projects](##projects)
+- [Resources](##resources)
+- [Connect with Me](##connect-with-me)
 
 ## Learning Path
 
