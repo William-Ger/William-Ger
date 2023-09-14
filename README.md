@@ -1,27 +1,17 @@
 # William Gerstung
-# :wave:
 
 ## About Me
 I'm passionate about data and its power to drive insights and innovation. Since graduating from The University of Iowa studying business analytics and information systems, I'm excited to delve deeper into the realm of Data Science. My goal is to leverage machine learning techniques and develop web applications to create data-driven solutions that can make a tangible impact.
 
 ## Contents
-
-- [Learning Path](##learning-path)
 - [Projects](##projects)
-- [Resources](##resources)
 - [Connect with Me](##connect-with-me)
-
-## Learning Path
-
-I believe in continuous learning and growth. Here's my planned learning path to make a successful transition:
 
 ## Projects
 
-### Project 1: Exploring web development and driving sales through improving company websites
+### Project 1: Semantic_Therapist
 
-Description:
-
-## Resources
+Description: Generate therapist reports with this tool, which takes user input to conduct semantic searches through the LiveLongerData.csv. By pinpointing the top 5 factors most relevant to your input, it lays the groundwork for a tailored guidance report. The final report is crafted by ChatGPT-4 to provide you with actionable steps and personalized advice.
 
 ## Connect with Me
 
