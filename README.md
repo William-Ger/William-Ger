@@ -4,7 +4,7 @@
 I'm passionate about data and its power to drive insights and innovation. Since graduating from The University of Iowa studying business analytics and information systems, I'm excited to delve deeper into the realm of Data Science. My goal is to leverage machine learning techniques and develop web applications to create data-driven solutions that can make a tangible impact.
 
 ## Contents
-- [Projects]([##projects](https://github.com/William-Ger?tab=repositories))
+- [Projects](https://github.com/William-Ger?tab=repositories)
 - [Connect with Me](##connect-with-me)
 
 ## Projects
