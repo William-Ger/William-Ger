@@ -9,7 +9,7 @@ I'm passionate about data and its power to drive insights and innovation. Since 
 
 ## Projects
 
-### Project 1: Semantic_Therapist
+### Project 1: AI_Therapist
 
 Description: Generate therapist reports with this tool, which takes user input to conduct semantic searches through the LiveLongerData.csv. By pinpointing the top 5 factors most relevant to your input, it lays the groundwork for a tailored guidance report. The final report is crafted by ChatGPT-4 to provide you with actionable steps and personalized advice.
 
