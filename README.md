@@ -13,6 +13,9 @@ I'm passionate about data and its power to drive insights and innovation. Since 
 
 Description: Generate therapist reports with this tool, which takes user input to conduct semantic searches through the LiveLongerData.csv. By pinpointing the top 5 factors most relevant to your input, it lays the groundwork for a tailored guidance report. The final report is crafted by ChatGPT-4 to provide you with actionable steps and personalized advice.
 
+### Project 2: will_portfolio
+Description: Website create with react, JS, and CSS. Deployed via Vercel.
+
 ## Connect with Me
 
 I'm excited to connect with fellow data enthusiasts, professionals, and learners. Feel free to reach out to me via:
