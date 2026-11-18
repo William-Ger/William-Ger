@@ -14,6 +14,7 @@ AI engineer in Chicago. At work I connect AI assistants to the systems legal tea
 | [qrart](https://qrart.willgerstung.com) | QR codes hidden inside original artwork. The picture is the code, so people scan it out of curiosity. | Next.js |
 | [woodshed](https://woodshed.willgerstung.com) | Couldn't afford guitar pedals or amps, so I built a free studio where I can make any pedal. [Source](https://github.com/William-Ger/woodshed) | C++, JUCE |
 | [resy-mcp](https://github.com/William-Ger/resy-mcp) | MCP server for searching restaurants, checking availability, and making reservations through the Resy API. Works with Claude Code and Claude Desktop. | Python, FastMCP |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | Open-source voice-to-text dictation app with local and cloud models. I contributed a fix for the voice agent prompt tester, which was running against the wrong model settings and echoing its input ([#1359](https://github.com/OpenWhispr/openwhispr/pull/1359)). | TypeScript, React, Electron |
 
 ## Day job
 
