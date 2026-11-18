@@ -1,24 +1,34 @@
 # William Gerstung
 
-## About Me
-I'm passionate about data and its power to drive insights and innovation. Since graduating from The University of Iowa studying business analytics and information systems, I'm excited to delve deeper into the realm of Data Science. My goal is to leverage machine learning techniques and develop web applications to create data-driven solutions that can make a tangible impact.
+AI engineer in Chicago. At work I connect AI assistants to the systems legal teams run on. On my own time I build things I want to use, like a free recording studio with a full guitar rig.
 
-## Contents
-- [Projects](https://github.com/William-Ger?tab=repositories)
-- [Connect with Me](##connect-with-me)
+[Website](https://willgerstung.com) · [LinkedIn](https://www.linkedin.com/in/william-gerstung/) · [Email](mailto:willgerstung@gmail.com)
 
 ## Projects
 
-### Project 1: AI_Therapist
+### [Woodshed](https://github.com/William-Ger/woodshed)
 
-Description: Generate therapist reports with this tool, which takes user input to conduct semantic searches through the LiveLongerData.csv. By pinpointing the top 5 factors most relevant to your input, it lays the groundwork for a tailored guidance report. The final report is crafted by ChatGPT-4 to provide you with actionable steps and personalized advice.
+A free, open-source music studio: record, write, arrange and mix, with a guitar rig of 93 effects and amps built in. I wanted the pedals and amps I couldn't afford, so I started with a pedalboard on my laptop and it grew into a full DAW. C++ and JUCE, AGPLv3.
 
-### Project 2: will_portfolio
-Description: Website create with react, JS, and CSS. Deployed via Vercel.
+[![The Woodshed arrange view with the guitar rig](https://raw.githubusercontent.com/William-Ger/woodshed/HEAD/docs/screenshots/guitar-rig.jpg)](https://github.com/William-Ger/woodshed)
 
-## Connect with Me
+### More projects
 
-I'm excited to connect with fellow data enthusiasts, professionals, and learners. Feel free to reach out to me via:
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [typer](https://github.com/William-Ger/typer) | Typing practice in your terminal, like monkeytype for the CLI. Install it with `brew` or `pip`. | Python |
+| [cusage](https://github.com/William-Ger/cusage) | Your Claude Pro or Max plan limits, live in the terminal and in Claude Code's status line. | Node, no dependencies |
+| [resy-mcp](https://github.com/William-Ger/resy-mcp) | MCP server that lets AI assistants search restaurants and book reservations through Resy. | Python, FastMCP |
+| [gmail-mcp](https://github.com/William-Ger/gmail-mcp) | MCP server for reading, searching, drafting and sending Gmail. | Python |
 
-- Email: willgerstung@gmail.com
-- LinkedIn: [William-Gerstung](https://www.linkedin.com/in/william-gerstung/)
+## Day job
+
+I'm a Senior Forward Deployed AI Engineer at [Epiq](https://www.epiqglobal.com), in the Information Governance group. I build MCP servers and API connectors that let Claude and Microsoft Copilot work with corporate legal departments' contract, document, intake and billing systems.
+
+**Before Epiq:** I was a data engineer at Gibson Consulting (2023–2026), working on procurement data for multi-client engagements:
+
+- Pipelines on Databricks with PySpark, Delta Lake and Unity Catalog
+- LLM agents that consolidated and categorized data across 3,000+ global suppliers, replacing manual taxonomy work
+- Internal web apps with Next.js and FastAPI
+
+**Tools I reach for:** Python, SQL, TypeScript, C++, Claude, MCP, Spark, Databricks, Azure, FastAPI, Next.js
